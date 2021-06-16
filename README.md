@@ -1,2 +1,2 @@
 # EvenOdd
-ios application Even-odd number chek
+iOS application Even-odd number check
